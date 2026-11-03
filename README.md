@@ -12,10 +12,10 @@
 
 I build production LLM systems (RAG pipelines, multi-agent architectures, intelligent document processing) and the tooling that makes agents cheaper and more predictable to run. I lead project delivery for the AI department at **Intellity** and stay hands-on as a developer on every project.
 
-- 🔭 Building **[Amber](https://github.com/enestanerr/Amber)** in public: a compiler that turns repeated Claude Code runs into tested Python programs.
-- 🧠 Focus: agent reliability (guardrails, drift detection, human-in-the-loop), structured outputs, LLM cost and latency.
-- 💬 Turkish (native) · English (C1)
-- 📫 Always happy to talk about agents, RAG and LLM tooling. Reach me on [LinkedIn](https://www.linkedin.com/in/enes-taner-312268155/).
+-  Building **[Amber](https://github.com/enestanerr/Amber)** in public: a compiler that turns repeated Claude Code runs into tested Python programs.
+-  Focus: agent reliability (guardrails, drift detection, human-in-the-loop), structured outputs, LLM cost and latency.
+-  Turkish (native) · English (B2)
+-  Always happy to talk about agents, RAG and LLM tooling. Reach me on [LinkedIn](https://www.linkedin.com/in/enes-taner-312268155/).
 
 ## Featured open source
 
